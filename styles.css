@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.input_name{
+    width: 320px;
+    height: 36px;
+    border: solid 1px gray;
+    outline: none;
+    padding: 0 8px;
+    border-radius: 8px;
+    margin: 40px;
+}
+.invalid{
+    border:solid 2px red;
+    background-color: rgba(255, 0, 0, 0.719);
+
+}
